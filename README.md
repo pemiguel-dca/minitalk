@@ -18,6 +18,6 @@ Here the server as been open, and it's waiting for someone to communicate with h
 
 As you can see in the image this is how they communicate.
 The first parameter is the PID and the second is the message you want to send.
-The client also recognizes every character send, printing a message.
+The client also recognizes every character sent, printing a message.
 
 PS: The '.bonus' files are exactly the same as the others it's just a thing that 42School does to separate bonus from mandatory.
